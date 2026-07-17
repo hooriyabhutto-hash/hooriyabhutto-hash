@@ -9,10 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on exciting projects and expanding my skills
-- 🌱 Always learning new technologies
-- 💬 Ask me about anything in my tech stack below
-- ⚡ Fun fact: I love turning ideas into working code
+-👩‍💻 I'm a Software Engineering student with a passion for building practical software solutions.
+-💻 Experienced with C, C++, VB.NET, HTML and CSS.
+-🐍 Currently diving deeper into Python and strengthening my programming skills through hands-on projects.-
+-🌱 Always eager to learn new technologies and improve my problem-solving abilities.
+-🎯 My goal is to become a skilled Software Engineer and build impactful, user-friendly applications.
 
 ---
 
@@ -20,13 +21,12 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6C63FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6C63FF?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=css3&logoColor=white)
+![VB.NET](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/React-EC4899?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
