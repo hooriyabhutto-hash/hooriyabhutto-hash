@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
--👩‍💻 I'm a Software Engineering student with a passion for building practical software solutions.
--💻 Experienced with C, C++, VB.NET, HTML and CSS.
--🐍 Currently diving deeper into Python and strengthening my programming skills through hands-on projects.-
--🌱 Always eager to learn new technologies and improve my problem-solving abilities.
--🎯 My goal is to become a skilled Software Engineer and build impactful, user-friendly applications.
+- 👩‍💻 I'm a Software Engineering student with a passion for building practical software solutions.
+- 💻 Experienced with C, C++, VB.NET, HTML and CSS.
+- 🐍 Currently diving deeper into Python and strengthening my programming skills through hands-on projects.-
+- 🌱 Always eager to learn new technologies and improve my problem-solving abilities.
+- 🎯 My goal is to become a skilled Software Engineer and build impactful, user-friendly applications.
 
 ---
 
@@ -21,12 +21,12 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-EC4899?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=css3&logoColor=white)
-![VB.NET](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/React-EC4899?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-EC4899?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
