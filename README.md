@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF69B4&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hooriyabhutto-hash&theme=react-dark" />
 
 </div>
 
@@ -65,6 +65,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6AE,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF69B4&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"/>
 
 </div>
