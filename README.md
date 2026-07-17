@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=FF69B4&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF69B4&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"/>
 
-<img src=https://readme-typing-svg.demolab.com/demo/?weight=600&size=24&duration=2500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Hooriya;Software+Engineering+Student;Building+cool+Things+with+code/>
+<img src="https://readme-typing-svg.demolab.com/demo/?weight=600&size=24&duration=2500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Hooriya;Software+Engineering+Student;Building+cool+Things+with+code"/>
 
 </div>
 
