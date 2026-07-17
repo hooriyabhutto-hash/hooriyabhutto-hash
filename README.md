@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6AE&height=220&section=header&text=Hi%20There,%20I'm%20Hooriyabhutto%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" width="100%"/>
+<img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=FF69B4&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Always+learning%2C+always+shipping;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src=https://readme-typing-svg.demolab.com/demo/?weight=600&size=24&duration=2500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Hooriya;Software+Engineering+Student;Building+cool+Things+with+code/>
 
 </div>
 
